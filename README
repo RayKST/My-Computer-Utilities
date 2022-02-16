@@ -2,14 +2,11 @@ Repositório para guardar meus utilitários que aceleram um pouco a minha vida.
 
 # Tornando o comando nativo #
 Caso queira utilizar os scripts de maneira nativa no linux rode os seguintes comandos:
-```
+
 sudo cp <scriptname> /usr/local/bin/
-```
 Copie o script para /usr/local/bin/
 
-```
 sudo chmod +x <scriptname>
-```
 Dê a permissão de execução ao script
 
 Após esses passos você pode utilizar o script de maneira nativa apenas rodando o nome do arquivo.
