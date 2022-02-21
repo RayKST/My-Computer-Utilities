@@ -6,6 +6,9 @@ Caso queira utilizar os scripts de maneira nativa no linux rode os seguintes com
 sudo cp <scriptname> /usr/local/bin/
 Copie o script para /usr/local/bin/
 
+cd /usr/local/bin/
+mude para a pasta a qual o script foi copiado
+
 sudo chmod +x <scriptname>
 Dê a permissão de execução ao script
 
